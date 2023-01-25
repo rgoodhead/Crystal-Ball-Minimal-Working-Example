@@ -1,0 +1,26 @@
+Sent_ID <TIMEX3 TIMEX
+S_20190918_S1 <TIMEX3 range="(2019-09-18T14:00:00.000,2019-09-18T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-09-18T14:00">2 p.m.</TIMEX3>
+S_20190918_S1 <TIMEX3 range="(2019-09-18,2019-09-18,P1D)" tid="t2" type="DATE" value="2019-09-18">September 18 , 2019</TIMEX3>
+S_20190918_S2 <TIMEX3 range="(2019-07-01,2019-07-31,P1M)" tid="t1" type="DATE" value="2019-07">July</TIMEX3>
+S_20190918_S4 <TIMEX3 range="(,,PXM)" tid="t1" type="DURATION" value="PXM">recent months</TIMEX3>
+S_20190918_S8 <TIMEX3 range="(,,P12M)" tid="t1" type="DURATION" value="P12M">12 month</TIMEX3>
+S_20190918_S11 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">longer term</TIMEX3>
+S_20190918_S22 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">the future</TIMEX3>
+S_20190918_S26 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>
+S_20190918_S34 <TIMEX3 range="(2019-09-18T14:00:00.000,2019-09-18T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-09-18T14:00">2 p.m.</TIMEX3>
+S_20190918_S34 <TIMEX3 range="(2019-09-18,2019-09-18,P1D)" tid="t2" type="DATE" value="2019-09-18">September 18 , 2019</TIMEX3>
+S_20190918_S43 <TIMEX3 range="(2019-09-18T14:00:00.000,2019-09-18T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-09-18T14:00">2 p.m.</TIMEX3>
+S_20190918_S43 <TIMEX3 range="(2019-09-18,2019-09-18,P1D)" tid="t2" type="DATE" value="2019-09-18">September 18 , 2019</TIMEX3>
+S_20190918_S46 <TIMEX3 range="(2019-09-18,2019-09-18,P1D)" tid="t1" type="DATE" value="2019-09-18">September 18 , 2019</TIMEX3>
+S_20190918_S49 <TIMEX3 range="(2019-09-19,2019-09-19,P1D)" tid="t1" type="DATE" value="2019-09-19">September 19 , 2019</TIMEX3>
+S_20190918_S58 <TIMEX3 range="(2019-09-19,2019-09-19,P1D)" tid="t1" type="DATE" value="2019-09-19">September 19 , 2019</TIMEX3>
+S_20190918_S60 <TIMEX3 range="(2019-09-18T19:00:00.000,2019-09-19T05:00:00.000,PT10H)" tid="t1" type="TIME" value="2019-09-18TNI">overnight</TIMEX3>
+S_20190918_S62 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">one day</TIMEX3>
+S_20190918_S62 <TIMEX3 range="(2019-09-21,2019-09-22,P2D)" tid="t2" type="DATE" value="2019-W38-WE">weekend</TIMEX3>
+S_20190918_S66 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+S_20190918_S71 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190918_S73 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190918_S75 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190918_S80 <TIMEX3 range="(2019-09-18T14:00:00.000,2019-09-18T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-09-18T14:00">2 p.m.</TIMEX3>
+S_20190918_S80 <TIMEX3 range="(2019-09-18,2019-09-18,P1D)" tid="t2" type="DATE" value="2019-09-18">September 18 , 2019</TIMEX3>
+S_20190918_S87 <TIMEX3 range="(2019-09-19,2019-09-19,P1D)" tid="t1" type="DATE" value="2019-09-19">September 19 , 2019</TIMEX3>

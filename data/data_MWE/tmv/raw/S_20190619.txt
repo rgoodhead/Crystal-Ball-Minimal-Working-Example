@@ -1,0 +1,59 @@
+2	9	met	yes	met	past	indicative	active	no	no	no	-
+2	12	indicates	yes	indicates	pres	indicative	active	no	no	no	-
+3	5	remains	yes	remains	pres	indicative	active	no	no	no	-
+3	11,12	is rising	no	rising	-	-	-	yes	no	no	-
+5	2,3	have been	yes	been	presPerf	indicative	passive	no	no	no	-
+5	17,18	has remained	yes	remained	presPerf	indicative	active	no	no	no	-
+7	6	appears	yes	appears	pres	indicative	active	no	no	no	-
+7	7,8,9,10	to have picked up	no	picked-up	-	-	-	-	no	no	-
+8	6,7	have been	yes	been	presPerf	indicative	passive	no	no	no	-
+10	10,11	are running	no	are,running	-	-	-	yes	no	no	-
+12	5,6	have declined	yes	declined	presPerf	indicative	active	no	no	no	-
+13	3,5	are changed	yes	changed	pres	indicative	passive	no	no	no	-
+14	9	seeks	yes	seeks	pres	indicative	active	no	no	no	-
+14	10,11	to foster	no	foster	-	-	-	-	no	no	-
+16	9	decided	yes	decided	past	indicative	active	no	no	no	-
+16	10,11	to maintain	no	maintain	-	-	-	-	no	no	-
+19	2	sustained	yes	sustained	past	indicative	active	no	no	no	-
+20	3	symmetric	yes	symmetric	pres	indicative	active	no	no	no	-
+20	14	uncertainties	yes	uncertainties	pres	indicative	active	no	no	no	-
+21	4,5	have increased	yes	increased	presPerf	indicative	active	no	no	no	-
+23	3,5	will monitor	yes	monitor	futureI	indicative	active	no	no	no	-
+24	3,4	will act	yes	act	futureI	indicative	active	no	no	no	-
+24	7,8	to sustain	no	sustain	-	-	-	-	no	no	-
+27	6,7	will assess	yes	assess	futureI	indicative	active	no	no	no	-
+30	2,3	will take	yes	take	futureI	indicative	active	no	no	no	-
+36	7	were	yes	were	past	indicative	active	no	no	no	-
+39	5	was	yes	was	past	indicative	active	no	no	no	-
+40	4	preferred	yes	preferred	past	indicative	active	no	no	no	-
+40	8,9	to lower	no	lower	-	-	-	-	no	no	-
+45	4,5	has made	yes	made	presPerf	indicative	active	no	no	no	-
+45	9,10	to implement	no	implement	-	-	-	-	no	no	-
+47	10	voted	yes	voted	past	indicative	active	no	no	no	-
+47	12,13	to maintain	no	maintain	-	-	-	-	no	no	-
+50	13	voted	yes	voted	past	indicative	active	no	no	no	-
+50	14,15	to authorize	no	authorize	-	-	-	-	no	no	-
+52	3,4	to execute	no	execute	-	-	-	-	no	no	-
+55	7,8	to maintain	no	maintain	-	-	-	-	no	no	-
+58	4,5	to accommodate	no	accommodate	-	-	-	-	no	no	-
+60	5	held	yes	held	past	indicative	active	no	no	no	-
+61	2	are	yes	are	pres	indicative	active	no	no	no	-
+63	3	directs	yes	directs	pres	indicative	active	no	no	no	-
+63	6,7,8	to continue rolling	no	rolling	-	-	-	-	no	no	-
+65	7	exceeds	yes	exceeds	pres	indicative	active	no	no	no	-
+65	13,14	to continue	no	continue	-	-	-	-	no	no	-
+66	4	mortgage-backed	yes	mortgage-backed	past	indicative	active	no	no	no	-
+68	3	received	yes	received	past	indicative	active	no	no	no	-
+68	9	exceeds	yes	exceeds	pres	indicative	active	no	no	no	-
+70	9	are	yes	are	pres	indicative	active	no	no	no	-
+72	4	directs	yes	directs	pres	indicative	active	no	no	no	-
+72	7,8	to engage	no	engage	-	-	-	-	no	no	-
+73	4,5	to facilitate	no	facilitate	-	-	-	-	no	no	-
+74	1	mortgage-backed	yes	mortgage-backed	past	indicative	active	no	no	no	-
+75	15	voted	yes	voted	past	indicative	active	no	no	no	-
+76	2,3	to approve	no	approve	-	-	-	-	no	no	-
+81	3,4,5	will be updated	yes	updated	futureI	indicative	passive	no	no	no	-
+81	8,9	to reflect	no	reflect	-	-	-	-	no	no	-
+83	4	used	yes	used	past	indicative	active	no	no	no	-
+83	5,6	to implement	no	implement	-	-	-	-	no	no	-
+84	9,10,11	may be found	yes	found	pres	indicative	passive	no	no	no	-

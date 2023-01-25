@@ -1,0 +1,25 @@
+Sent_ID <TIMEX3 TIMEX
+S_20190501_S1 <TIMEX3 range="(2019-05-01T14:00:00.000,2019-05-01T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-05-01T14:00">2 p.m.</TIMEX3>
+S_20190501_S1 <TIMEX3 range="(2019-05-01,2019-05-01,P1D)" tid="t2" type="DATE" value="2019-05-01">May 1 , 2019</TIMEX3>
+S_20190501_S2 <TIMEX3 range="(2019-03-01,2019-03-31,P1M)" tid="t1" type="DATE" value="2019-03">March</TIMEX3>
+S_20190501_S5 <TIMEX3 range="(,,PXM)" tid="t1" type="DURATION" value="PXM">recent months</TIMEX3>
+S_20190501_S9 <TIMEX3 range="(,,P12M)" tid="t1" type="DURATION" value="P12M">12 month</TIMEX3>
+S_20190501_S12 <TIMEX3 range="(,,PXM)" tid="t1" type="DURATION" value="PXM">recent months</TIMEX3>
+S_20190501_S12 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t2" type="DATE" value="FUTURE_REF">longer term</TIMEX3>
+S_20190501_S23 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>
+S_20190501_S25 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>
+S_20190501_S36 <TIMEX3 range="(2019-05-01T14:00:00.000,2019-05-01T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-05-01T14:00">2 p.m.</TIMEX3>
+S_20190501_S36 <TIMEX3 range="(2019-05-01,2019-05-01,P1D)" tid="t2" type="DATE" value="2019-05-01">May 1 , 2019</TIMEX3>
+S_20190501_S39 <TIMEX3 range="(2019-05-01,2019-05-01,P1D)" tid="t1" type="DATE" value="2019-05-01">May 1 , 2019</TIMEX3>
+S_20190501_S41 <TIMEX3 range="(2019-05-01,2019-05-31,P1M)" tid="t1" type="DATE" value="2019-05">May</TIMEX3>
+S_20190501_S42 <TIMEX3 range="(2019-01-01,2019-12-31,P1Y)" tid="t1" type="DATE" value="2019">2019</TIMEX3>
+S_20190501_S50 <TIMEX3 range="(2019-05-02,2019-05-02,P1D)" tid="t1" type="DATE" value="2019-05-02">May 2 , 2019</TIMEX3>
+S_20190501_S52 <TIMEX3 range="(2019-05-01T19:00:00.000,2019-05-02T05:00:00.000,PT10H)" tid="t1" type="TIME" value="2019-05-01TNI">overnight</TIMEX3>
+S_20190501_S54 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+S_20190501_S54 <TIMEX3 range="(2019-05-04,2019-05-05,P2D)" tid="t2" type="DATE" value="2019-W18-WE">weekend</TIMEX3>
+S_20190501_S58 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+S_20190501_S59 <TIMEX3 range="(2019-05-02,2019-05-02,P1D)" tid="t1" type="DATE" value="2019-05-02">May 2 , 2019</TIMEX3>
+S_20190501_S61 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190501_S66 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190501_S76 <TIMEX3 range="(2019-05-01T14:00:00.000,2019-05-01T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-05-01T14:00">2 p.m.</TIMEX3>
+S_20190501_S76 <TIMEX3 range="(2019-05-01,2019-05-01,P1D)" tid="t2" type="DATE" value="2019-05-01">May 1 , 2019</TIMEX3>

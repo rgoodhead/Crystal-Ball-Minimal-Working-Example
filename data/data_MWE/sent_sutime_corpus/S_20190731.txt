@@ -1,0 +1,30 @@
+Sent_ID <TIMEX3 TIMEX
+S_20190731_S1 <TIMEX3 range="(2019-07-31T14:00:00.000,2019-07-31T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-07-31T14:00">2 p.m.</TIMEX3>
+S_20190731_S1 <TIMEX3 range="(2019-07-31,2019-07-31,P1D)" tid="t2" type="DATE" value="2019-07-31">July 31 , 2019</TIMEX3>
+S_20190731_S2 <TIMEX3 range="(2019-06-01,2019-06-30,P1M)" tid="t1" type="DATE" value="2019-06">June</TIMEX3>
+S_20190731_S5 <TIMEX3 range="(,,PXM)" tid="t1" type="DURATION" value="PXM">recent months</TIMEX3>
+S_20190731_S7 <TIMEX3 mod="EARLY" range="(2019-01-01,2019-12-31,P1Y)" tid="t1" type="DATE" value="2019">early the year</TIMEX3>
+S_20190731_S9 <TIMEX3 range="(,,P12M)" tid="t1" type="DURATION" value="P12M">12 month</TIMEX3>
+S_20190731_S12 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">longer term</TIMEX3>
+S_20190731_S23 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">the future</TIMEX3>
+S_20190731_S27 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>
+S_20190731_S35 <TIMEX3 range="(2019-07-31T14:00:00.000,2019-07-31T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-07-31T14:00">2 p.m.</TIMEX3>
+S_20190731_S35 <TIMEX3 range="(2019-07-31,2019-07-31,P1D)" tid="t2" type="DATE" value="2019-07-31">July 31 , 2019</TIMEX3>
+S_20190731_S38 <TIMEX3 range="(2019-06-01,2019-06-30,P1M)" tid="t1" type="DATE" value="2019-06">August , two months earlier</TIMEX3>
+S_20190731_S38 <TIMEX3 range="(UNKNOWN,PRESENT_REF,)" tid="t2" type="DATE" value="PAST_REF">previously</TIMEX3>
+S_20190731_S46 <TIMEX3 range="(2019-07-31T14:00:00.000,2019-07-31T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-07-31T14:00">2 p.m.</TIMEX3>
+S_20190731_S46 <TIMEX3 range="(2019-07-31,2019-07-31,P1D)" tid="t2" type="DATE" value="2019-07-31">July 31 , 2019</TIMEX3>
+S_20190731_S49 <TIMEX3 range="(2019-07-31,2019-07-31,P1D)" tid="t1" type="DATE" value="2019-07-31">July 31 , 2019</TIMEX3>
+S_20190731_S52 <TIMEX3 range="(2019-08-01,2019-08-01,P1D)" tid="t1" type="DATE" value="2019-08-01">August 1 , 2019</TIMEX3>
+S_20190731_S57 <TIMEX3 range="(2019-08-01,2019-08-01,P1D)" tid="t1" type="DATE" value="2019-08-01">August 1 , 2019</TIMEX3>
+S_20190731_S59 <TIMEX3 range="(2019-07-31T19:00:00.000,2019-08-01T05:00:00.000,PT10H)" tid="t1" type="TIME" value="2019-07-31TNI">overnight</TIMEX3>
+S_20190731_S61 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+S_20190731_S61 <TIMEX3 range="(2019-08-03,2019-08-04,P2D)" tid="t2" type="DATE" value="2019-W31-WE">weekend</TIMEX3>
+S_20190731_S65 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+S_20190731_S66 <TIMEX3 range="(2019-08-01,2019-08-01,P1D)" tid="t1" type="DATE" value="2019-08-01">August 1 , 2019</TIMEX3>
+S_20190731_S70 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190731_S72 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190731_S74 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190731_S82 <TIMEX3 range="(2019-07-31T14:00:00.000,2019-07-31T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-07-31T14:00">2 p.m.</TIMEX3>
+S_20190731_S82 <TIMEX3 range="(2019-07-31,2019-07-31,P1D)" tid="t2" type="DATE" value="2019-07-31">July 31 , 2019</TIMEX3>
+S_20190731_S86 <TIMEX3 range="(2019-08-01,2019-08-01,P1D)" tid="t1" type="DATE" value="2019-08-01">August 1 , 2019</TIMEX3>

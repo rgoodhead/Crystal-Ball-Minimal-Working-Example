@@ -1,0 +1,59 @@
+2	9	met	yes	met	past	indicative	active	no	no	no	-
+2	12	indicates	yes	indicates	pres	indicative	active	no	no	no	-
+3	5	remains	yes	remains	pres	indicative	active	no	no	no	-
+3	11	rose	yes	rose	past	indicative	active	no	no	no	-
+5	1,2	have been	yes	been	presPerf	indicative	passive	no	no	no	-
+5	16,17	has remained	yes	remained	presPerf	indicative	active	no	no	no	-
+7	9	slowed	yes	slowed	past	indicative	active	no	no	no	-
+10	1,2	have declined	yes	declined	presPerf	indicative	active	no	no	no	-
+10	4,5	are running	no	running	-	-	-	yes	no	no	-
+11	4	market-based	yes	market-based	past	indicative	active	no	no	no	-
+12	2,3	have remained	yes	remained	presPerf	indicative	active	no	no	no	-
+12	10	survey-based	yes	survey-based	past	indicative	active	no	no	no	-
+13	3,5	are changed	yes	changed	pres	indicative	passive	no	no	no	-
+14	9	seeks	yes	seeks	pres	indicative	active	no	no	no	-
+14	10,11	to foster	no	foster	-	-	-	-	no	no	-
+16	9	decided	yes	decided	past	indicative	active	no	no	no	-
+16	10,11	to maintain	no	maintain	-	-	-	-	no	no	-
+19	2	sustained	yes	sustained	past	indicative	active	no	no	no	-
+20	3	symmetric	yes	symmetric	pres	indicative	active	no	no	no	-
+22	12,13	will be	yes	be	futureI	indicative	active	no	no	no	-
+23	4	determines	yes	determines	pres	indicative	active	no	no	no	-
+23	17	may	yes	may	err	err	err	err	no	no	-
+24	3,4	to support	no	support	-	-	-	-	no	no	-
+26	6,7	will assess	yes	assess	futureI	indicative	active	no	no	no	-
+29	2,3	will take	yes	take	futureI	indicative	active	no	no	no	-
+32	8	were	yes	were	past	indicative	active	no	no	no	-
+38	4,5	has made	yes	made	presPerf	indicative	active	no	no	no	-
+38	9,10	to implement	no	implement	-	-	-	-	no	no	-
+40	10	voted	yes	voted	past	indicative	active	no	no	no	-
+40	12,13	to set	no	set	-	-	-	-	no	no	-
+44	14,15	is intended	yes	intended	pres	indicative	passive	no	no	no	-
+44	16,17	to foster	no	foster	-	-	-	-	no	no	-
+46	13	voted	yes	voted	past	indicative	active	no	no	no	-
+46	14,15	to authorize	no	authorize	-	-	-	-	no	no	-
+48	3,4	to execute	no	execute	-	-	-	-	no	no	-
+51	7,8	to maintain	no	maintain	-	-	-	-	no	no	-
+54	4,5	to accommodate	no	accommodate	-	-	-	-	no	no	-
+56	5	held	yes	held	past	indicative	active	no	no	no	-
+57	2	are	yes	are	pres	indicative	active	no	no	no	-
+59	9	directs	yes	directs	pres	indicative	active	no	no	no	-
+59	12,13,14	to roll over	no	roll-over	-	-	-	-	no	no	-
+61	8	exceeds	yes	exceeds	pres	indicative	active	no	no	no	-
+63	2	directs	yes	directs	pres	indicative	active	no	no	no	-
+63	5,6,7	to continue reinvesting	no	reinvesting	-	-	-	-	no	no	-
+63	10	mortgage-backed	yes	mortgage-backed	past	indicative	active	no	no	no	-
+65	6	mortgage-backed	yes	mortgage-backed	past	indicative	active	no	no	no	-
+66	4	exceeds	yes	exceeds	pres	indicative	active	no	no	no	-
+68	3	are	yes	are	pres	indicative	active	no	no	no	-
+69	4	directs	yes	directs	pres	indicative	active	no	no	no	-
+69	7,8	to engage	no	engage	-	-	-	-	no	no	-
+70	4,5	to facilitate	no	facilitate	-	-	-	-	no	no	-
+71	1	mortgage-backed	yes	mortgage-backed	past	indicative	active	no	no	no	-
+72	15	voted	yes	voted	past	indicative	active	no	no	no	-
+73	2,3	to approve	no	approve	-	-	-	-	no	no	-
+78	3,4,5	will be updated	yes	updated	futureI	indicative	passive	no	no	no	-
+78	8,9	to reflect	no	reflect	-	-	-	-	no	no	-
+80	4	used	yes	used	past	indicative	active	no	no	no	-
+80	5,6	to implement	no	implement	-	-	-	-	no	no	-
+81	9,10,11	may be found	yes	found	pres	indicative	passive	no	no	no	-

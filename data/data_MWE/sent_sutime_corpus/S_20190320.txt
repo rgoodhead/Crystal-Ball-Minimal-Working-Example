@@ -1,0 +1,29 @@
+Sent_ID <TIMEX3 TIMEX
+S_20190320_S1 <TIMEX3 range="(2019-03-20T14:00:00.000,2019-03-20T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-03-20T14:00">2 p.m.</TIMEX3>
+S_20190320_S1 <TIMEX3 range="(2019-03-20,2019-03-20,P1D)" tid="t2" type="DATE" value="2019-03-20">March 20 , 2019</TIMEX3>
+S_20190320_S2 <TIMEX3 range="(2019-01-01,2019-01-31,P1M)" tid="t1" type="DATE" value="2019-01">January</TIMEX3>
+S_20190320_S4 <TIMEX3 range="(2018-12-01,2018-12-31,P1M)" tid="t1" type="DATE" value="2018-12">December</TIMEX3>
+S_20190320_S6 <TIMEX3 range="(2019-02-01,2019-02-28,P1M)" tid="t1" type="DATE" value="2019-02">February</TIMEX3>
+S_20190320_S6 <TIMEX3 range="(,,PXM)" tid="t2" type="DURATION" value="PXM">recent months</TIMEX3>
+S_20190320_S9 <TIMEX3 range="(2019-Q1-01-01,2019-Q1-03-31,P3M)" tid="t1" type="DATE" value="2019-Q1">the first quarter</TIMEX3>
+S_20190320_S10 <TIMEX3 range="(,,P12M)" tid="t1" type="DURATION" value="P12M">12 month</TIMEX3>
+S_20190320_S14 <TIMEX3 range="(,,PXM)" tid="t1" type="DURATION" value="PXM">recent months</TIMEX3>
+S_20190320_S15 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">longer term</TIMEX3>
+S_20190320_S25 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>
+S_20190320_S28 <TIMEX3 range="(PRESENT_REF,UNKNOWN,)" tid="t1" type="DATE" value="FUTURE_REF">future</TIMEX3>
+S_20190320_S34 <TIMEX3 range="(2019-03-20T14:00:00.000,2019-03-20T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-03-20T14:00">2 p.m.</TIMEX3>
+S_20190320_S34 <TIMEX3 range="(2019-03-20,2019-03-20,P1D)" tid="t2" type="DATE" value="2019-03-20">March 20 , 2019</TIMEX3>
+S_20190320_S43 <TIMEX3 range="(2019-03-20T14:00:00.000,2019-03-20T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-03-20T14:00">2 p.m.</TIMEX3>
+S_20190320_S43 <TIMEX3 range="(2019-03-20,2019-03-20,P1D)" tid="t2" type="DATE" value="2019-03-20">March 20 , 2019</TIMEX3>
+S_20190320_S46 <TIMEX3 range="(2019-03-20,2019-03-20,P1D)" tid="t1" type="DATE" value="2019-03-20">March 20</TIMEX3>
+S_20190320_S47 <TIMEX3 range="(2019-01-01,2019-12-31,P1Y)" tid="t1" type="DATE" value="2019">2019</TIMEX3>
+S_20190320_S50 <TIMEX3 range="(2019-03-21,2019-03-21,P1D)" tid="t1" type="DATE" value="2019-03-21">March 21 , 2019</TIMEX3>
+S_20190320_S55 <TIMEX3 range="(2019-03-21,2019-03-21,P1D)" tid="t1" type="DATE" value="2019-03-21">March 21 , 2019</TIMEX3>
+S_20190320_S57 <TIMEX3 range="(2019-03-20T19:00:00.000,2019-03-21T05:00:00.000,PT10H)" tid="t1" type="TIME" value="2019-03-20TNI">overnight</TIMEX3>
+S_20190320_S59 <TIMEX3 mod="MORE_THAN" range="(,,&gt;P1D)" tid="t1" type="DURATION" value="P1D">more than one day</TIMEX3>
+S_20190320_S59 <TIMEX3 range="(2019-03-23,2019-03-24,P2D)" tid="t2" type="DATE" value="2019-W12-WE">weekend</TIMEX3>
+S_20190320_S63 <TIMEX3 range="(,,P1D)" tid="t1" type="DURATION" value="P1D">day</TIMEX3>
+S_20190320_S66 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190320_S69 <TIMEX3 range="(,,P1M)" tid="t1" type="DURATION" value="P1M">month</TIMEX3>
+S_20190320_S80 <TIMEX3 range="(2019-03-20T14:00:00.000,2019-03-20T14:00:59.999,PT1M)" tid="t1" type="TIME" value="2019-03-20T14:00">2 p.m.</TIMEX3>
+S_20190320_S80 <TIMEX3 range="(2019-03-20,2019-03-20,P1D)" tid="t2" type="DATE" value="2019-03-20">March 20 , 2019</TIMEX3>
