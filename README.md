@@ -18,14 +18,14 @@ The file structure for the working directory needs to be as follows:
 
 The file structure for ./data/data_MWE needs to be as follows:
 -	./data/data_MWE
-  -	/corpus
-  -	/corpus_prepared_for_mate
-  -	/mate_parsed_corpus
-  -	/mate_parsed_corpus_backup
-  -	/sent_corpus
-  -	/sent_dates_corpus
-  -	/sent_sutime_corpus
-  -	/tmv
+   -	/corpus
+   -	/corpus_prepared_for_mate
+   -	/mate_parsed_corpus
+   -	/mate_parsed_corpus_backup
+   -	/sent_corpus
+   -	/sent_dates_corpus
+   -	/sent_sutime_corpus
+   -	/tmv
 
 The correct file structures for ./mate_tools_working, ./stanford-corenlp-4.0.0, and ./tmv_tool will be discussed subsequently.
 
