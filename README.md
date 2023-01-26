@@ -2,11 +2,17 @@
 
 David Byrne, Robert Goodhead, Michael McMahon, Conor Parle
 
-This is a readme file, designed to allow researchers to apply the approach of Byrne et al. (2022a). The files here represent a minimal working example (MWE) and will parse 9 text files from containing policy statements by the Federal Reserve in 2019.
+This is a readme file, designed to allow researchers to apply the approach of Byrne et al. (2022a). The files here represent a minimal working example (MWE) and will parse 9 text files containing policy statements by the Federal Reserve in 2019.
 
 You will need the following programmes on your system, and accessible from your system path: Python, Java JDK, Maeven, Git Bash.
 
-Our approach benefits from the use of multiple tools from the natural language processing (NLP) literature.
+Our approach benefits from the use of multiple algorithms from the natural language processing (NLP) literature. In particular,
+
+- the TMV algorithm of Ramm et al. (2017);
+- the SUTime algorithm of Chang and Manning (2012);
+- the MATE parser of Björkelund et al. (2010).
+
+We explain clearly how and where to apply the codes of other researchers in the present readme. However, we do not provide access to these tools in the present repository, and refer users of our codes to the respective websites of these authors for relevant codes.
 
 ## Step 1: Ensure the file structure is correct
 
@@ -96,10 +102,12 @@ The cleaned SUTime and TMV parsed data can be respectively found stored in the f
 
 ## References
 
+Björkelund, Anders, Bernd Bohnet, Love Hafdell and Pierre Nuges (2010), "A High-Performance Sytactic and Semantic Dependency Parser", Coling 2010, Demonstrations.
+
 Byrne, David, Robert Goodhead, Michael McMahon, and Conor Parle (2022a), "Measuring the Temporal Dimension of Text: An Application to Policymaker Speeches", *mimeo*
 
 Byrne, David, Robert Goodhead, Michael McMahon, and Conor Parle (2022b), "Measuring the Temporal Dimension of Text: An Application to Policymaker Speeches", *mimeo*
 
 Chang, Angel X. and Christopher D. Manning (2012), "SUTime: A Library for Recognizing and Normalizing Time Expressions", 8th International Conference on Language Resources and Evaluation
 
-Ramm, Anita, Sharid Loaiciga, Annemarie Friedrich, and Alexander Fraser (2017), "Annotating Tense, Mood and Voice for English, French and German", Proceedings of ACL 2017, System Demonstrations.
+Ramm, Anita, Sharid Loáiciga, Annemarie Friedrich, and Alexander Fraser (2017), "Annotating Tense, Mood and Voice for English, French and German", Proceedings of ACL 2017, System Demonstrations.
