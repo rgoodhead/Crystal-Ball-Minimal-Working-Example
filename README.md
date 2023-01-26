@@ -4,9 +4,9 @@ David Byrne, Robert Goodhead, Michael McMahon, Conor Parle
 
 This is a readme file, designed to allow researchers to apply the approach of Byrne et al. (2022a). The files here represent a minimal working example (MWE) and will parse 9 text files from containing policy statements by the Federal Reserve in 2019.
 
-## Preamble
-
 You will need the following programmes on your system, and accessible from your system path: Python, Java JDK, Maeven, Git Bash.
+
+Our approach benefits from the use of multiple tools from the natural language processing (NLP) literature.
 
 ## Step 1: Ensure the file structure is correct
 
@@ -43,33 +43,37 @@ You will need to run the following python codes in sequence to pre-process the d
 Before one can run the TMV tool, one needs to set up the MATE parser.
 
 ### 3a) Set up MATE
+
 -	Download the file anna-3.61.jar from here and put it in a folder called ./mate_tools_working/anna.
 -	Download transition-1.30.jar from here and put it in a folder called ./mate_tools_working/transition.
 -	Download the parser + tagger from here, under “English Models”, which is a .mdl file called per-eng-S2b-40.mdl and put it in a folder called ./mate_tools_working/parser_tagger/.
 -	Download the parser .csh script from here, which is a tiny example script called parse-eng, and put it in ./mate_tools_working/parser_tagger/.
 
 ### 3b) Set up TMV
+
 -	Download the TMV tools (from the GitHub repository here) into this folder and unzip inside ./tmv_tool. There should be folders called europarl, example-outputs, and tmv-annotator-tool. There should also be .gitignore, LICENSE, README.md.
 -	Note that you need the de-bugged version of the English variant of the tool. You should place the file TMV-EN_ecb_test_david.py (found in ./supplements) in the directory (./data/tmv-annotator-tool).
 -	You also need to add the file TMVtoHTML_ecb.py (found in ./supplements) in the directory (./data/tmv-annotator-tool).
 
 ## Step 4: Getting SUTime working
+
 You will need a version of Stanford CoreNLP on your system. In our applications, we used version 4.0.0, which is available here. While our codes may function with more recent versions, we cannot guarantee this will be the case.
 
 The folder ./stanford-corenlp-4.0.0 should have the following file structure:
--	./stanford-corenlp-4.0.0
-  -	/.idea
-  -	/jars
-  -	/patterns
-  -	/sutime
-  -	/target
-  -	/tokensregex
+- ./stanford-corenlp-4.0.0
+   - /.idea
+   - /jars
+   - /patterns
+   - /sutime
+   - /target
+   - /tokensregex
 
 Next one needs to add two additional rules files, that are bespoke to this paper and are not included in the core distribution of SUTime. To do this, move the files defs2.sutime.txt and english2.sutime.txt (found in ./supplements) to the folder ./stanford-corenlp-4.0.0/sutime.
 
 One now needs to add a .java file, designed to run extract the reference date from text file names, before applying SUTime to this reference date. To do this move the two files run_sutime_on_MWE.java and run_sutime_on_MWE.class into ./stanford-corenlp-4.0.0. These two files are both found in ./supplements.
 
 ## Step 5: Parse the data
+
 To parse the data with TMV, one needs to run the following two files in sequence:
 -	bash_run_mate_on_MWE.sh
 -	bash_run_tmv_on_MWE.sh
@@ -78,6 +82,7 @@ To parse the data with SUTime, one needs to run the following file:
 -	bash_run_sutime_on_MWE.sh
 
 ## Step 6: Additional preparation routines
+
 These routines apply a few cleaning operations, as detailed in Byrne et al. (2022a). These routines are specific to our investigations, and any individual cleaning decision we leave for future researchers to remove or modify as they please.
 -	run_MWE_2a_tmv_1_data_input 
 -	run_MWE_2a_tmv_1a_tempoword
@@ -89,3 +94,12 @@ The cleaned SUTime and TMV parsed data can be respectively found stored in the f
 -	./data/data_MWE/data_TMV_cleaned.pkl
 -	./data/data_MWE/data_SUTime_cleaned.pkl
 
+## References
+
+Byrne, David, Robert Goodhead, Michael McMahon, and Conor Parle (2022a), "Measuring the Temporal Dimension of Text: An Application to Policymaker Speeches", *mimeo*
+
+Byrne, David, Robert Goodhead, Michael McMahon, and Conor Parle (2022b), "Measuring the Temporal Dimension of Text: An Application to Policymaker Speeches", *mimeo*
+
+Chang, Angel X. and Christopher D. Manning (2012), "SUTime: A Library for Recognizing and Normalizing Time Expressions", 8th International Conference on Language Resources and Evaluation
+
+Ramm, Anita, Sharid Loaiciga, Annemarie Friedrich, and Alexander Fraser (2017), "Annotating Tense, Mood and Voice for English, French and German", Proceedings of ACL 2017, System Demonstrations.
