@@ -1,6 +1,6 @@
 # Crystal-Ball-Minimal-Working-Example
 
-David Byrne, Robert Goodhead, Michael McMahon, Conor Parle
+[David Byrne](https://sites.google.com/view/davidbyrneecon), [Robert Goodhead](https://sites.google.com/site/robertgoodhead/), [Michael McMahon](http://mcmahonecon.com/), Conor Parle
 
 This is a readme file, designed to allow researchers to apply the approach of Byrne et al. (2022a). The files here represent a minimal working example (MWE) and will parse 9 text files containing policy statements by the Federal Reserve in 2019.
 
