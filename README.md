@@ -50,20 +50,20 @@ Before one can run the TMV tool, one needs to set up the MATE parser.
 
 ### 3a) Set up MATE
 
--	Download the file anna-3.61.jar from here and put it in a folder called ./mate_tools_working/anna.
--	Download transition-1.30.jar from here and put it in a folder called ./mate_tools_working/transition.
--	Download the parser + tagger from here, under “English Models”, which is a .mdl file called per-eng-S2b-40.mdl and put it in a folder called ./mate_tools_working/parser_tagger/.
--	Download the parser .csh script from here, which is a tiny example script called parse-eng, and put it in ./mate_tools_working/parser_tagger/.
+-	Download the file anna-3.61.jar from [here](https://code.google.com/archive/p/mate-tools/downloads) and put it in a folder called ./mate_tools_working/anna.
+-	Download transition-1.30.jar from [here](https://code.google.com/archive/p/mate-tools/wikis/ParserAndModels.wiki) and put it in a folder called ./mate_tools_working/transition.
+-	Download the parser + tagger from [here](https://code.google.com/archive/p/mate-tools/wikis/ParserAndModels.wiki), under “English Models”, which is a .mdl file called per-eng-S2b-40.mdl and put it in a folder called ./mate_tools_working/parser_tagger/.
+-	Download the parser .csh script from [here](https://code.google.com/archive/p/mate-tools/wikis/ParserAndModels.wiki), which is a tiny example script called parse-eng, and put it in ./mate_tools_working/parser_tagger/.
 
 ### 3b) Set up TMV
 
--	Download the TMV tools (from the GitHub repository here) into this folder and unzip inside ./tmv_tool. There should be folders called europarl, example-outputs, and tmv-annotator-tool. There should also be .gitignore, LICENSE, README.md.
+-	Download the TMV tools (from the GitHub repository [here](https://github.com/aniramm/tmv-annotator)) into this folder and unzip inside ./tmv_tool. There should be folders called europarl, example-outputs, and tmv-annotator-tool. There should also be .gitignore, LICENSE, README.md.
 -	Note that you need the de-bugged version of the English variant of the tool. You should place the file TMV-EN_ecb_test_david.py (found in ./supplements) in the directory (./data/tmv-annotator-tool).
 -	You also need to add the file TMVtoHTML_ecb.py (found in ./supplements) in the directory (./data/tmv-annotator-tool).
 
 ## Step 4: Getting SUTime working
 
-You will need a version of Stanford CoreNLP on your system. In our applications, we used version 4.0.0, which is available here. While our codes may function with more recent versions, we cannot guarantee this will be the case.
+You will need a version of Stanford CoreNLP on your system. In our applications, we used version 4.0.0, which is available [here](https://stanfordnlp.github.io/CoreNLP/history.html). While our codes may function with more recent versions, we cannot guarantee this will be the case.
 
 The folder ./stanford-corenlp-4.0.0 should have the following file structure:
 - ./stanford-corenlp-4.0.0
